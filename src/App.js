@@ -4,7 +4,7 @@ import ConterTimer from "./Components/TimerComponent/TimeParent";
 
 
 
-const milli = (8000*1000);
+const milli = (80645561);
 
 function App() {
   return (

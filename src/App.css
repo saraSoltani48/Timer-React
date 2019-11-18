@@ -2,10 +2,14 @@
   margin-top: 110px;
   width: 400px;
   margin-left: 400px;
-  background-color:#F0E68C;
+ text-align: center;
+ border-radius: 10px;
   border:solid  #D3D3D3;
-  height: 20px;
-  padding: 30px;
+  box-shadow: 5px 10px black;
+  
 }
 
 
+.clock h2{
+  color:#AAB7B8 ;
+}
